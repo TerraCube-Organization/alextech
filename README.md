@@ -4,4 +4,4 @@ A simple Blogging Software.
 
 ### Tools used in this Software:
 
-- TinyMCE [https://github.com/tinymce/tinymce](Repo Link)
+- TinyMCE https://github.com/tinymce/tinymce
