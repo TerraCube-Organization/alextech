@@ -1,0 +1,49 @@
+input[type=text] {
+  border: 2px solid #fc7600;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+button {
+font-weight:600;
+color:#fff;
+background-color: #fc7600;
+border-width: 0;
+text-align:center;
+padding:12px 16px;
+text-decoration:none;
+border-radius:5px;
+}
+
+button:hover {
+background-color:#ddd;
+color:#fc7600
+cursor: pointer;
+}
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #fc7600;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .edit-button {
+            background-color: #008CBA;
+        }
+        .delete-button {
+            background-color: #f44336;
+        }
